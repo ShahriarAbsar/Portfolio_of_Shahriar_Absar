@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio_of_Shahriar_Absar/static/css/main.d80019b1.css",
+    "main.js": "/Portfolio_of_Shahriar_Absar/static/js/main.40ef4f17.js",
+    "static/media/Shahriar-Absar-CV.pdf": "/Portfolio_of_Shahriar_Absar/static/media/Shahriar-Absar-CV.7a00ae0273290ddb092b.pdf",
+    "static/media/About_me.jpg": "/Portfolio_of_Shahriar_Absar/static/media/About_me.c2eb5af6f88faa051136.jpg",
+    "static/media/pic.png": "/Portfolio_of_Shahriar_Absar/static/media/pic.0116c4b00f240c883849.png",
+    "static/media/chick.jpg": "/Portfolio_of_Shahriar_Absar/static/media/chick.c8a08bfee3b75c63e7fd.jpg",
+    "static/media/weather.jpg": "/Portfolio_of_Shahriar_Absar/static/media/weather.f2645a7322aaa9248cf1.jpg",
+    "static/media/Honda.jpg": "/Portfolio_of_Shahriar_Absar/static/media/Honda.97e415c936dc3abcd587.jpg",
+    "static/media/clock.jpg": "/Portfolio_of_Shahriar_Absar/static/media/clock.a42119a2f9efb83343e1.jpg",
+    "static/media/football.jpg": "/Portfolio_of_Shahriar_Absar/static/media/football.91585b607f97e88a665c.jpg",
+    "static/media/bgpatern.png": "/Portfolio_of_Shahriar_Absar/static/media/bgpatern.f20bd5f9169750e82c8f.png",
+    "index.html": "/Portfolio_of_Shahriar_Absar/index.html",
+    "main.d80019b1.css.map": "/Portfolio_of_Shahriar_Absar/static/css/main.d80019b1.css.map",
+    "main.40ef4f17.js.map": "/Portfolio_of_Shahriar_Absar/static/js/main.40ef4f17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d80019b1.css",
+    "static/js/main.40ef4f17.js"
+  ]
+}
