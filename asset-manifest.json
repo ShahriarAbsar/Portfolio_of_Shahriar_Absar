@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio_of_Shahriar_Absar/static/css/main.3f3c8a37.css",
+    "main.css": "/Portfolio_of_Shahriar_Absar/static/css/main.6428a6a3.css",
     "main.js": "/Portfolio_of_Shahriar_Absar/static/js/main.f8e70160.js",
     "static/media/Shahriar-Absar-CV.pdf": "/Portfolio_of_Shahriar_Absar/static/media/Shahriar-Absar-CV.7a00ae0273290ddb092b.pdf",
     "static/media/About_me.jpg": "/Portfolio_of_Shahriar_Absar/static/media/About_me.c2eb5af6f88faa051136.jpg",
@@ -12,11 +12,11 @@
     "static/media/football.jpg": "/Portfolio_of_Shahriar_Absar/static/media/football.91585b607f97e88a665c.jpg",
     "static/media/bgpatern.png": "/Portfolio_of_Shahriar_Absar/static/media/bgpatern.f20bd5f9169750e82c8f.png",
     "index.html": "/Portfolio_of_Shahriar_Absar/index.html",
-    "main.3f3c8a37.css.map": "/Portfolio_of_Shahriar_Absar/static/css/main.3f3c8a37.css.map",
+    "main.6428a6a3.css.map": "/Portfolio_of_Shahriar_Absar/static/css/main.6428a6a3.css.map",
     "main.f8e70160.js.map": "/Portfolio_of_Shahriar_Absar/static/js/main.f8e70160.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f3c8a37.css",
+    "static/css/main.6428a6a3.css",
     "static/js/main.f8e70160.js"
   ]
 }
