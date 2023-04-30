@@ -77,10 +77,10 @@ header{
 
 /* mobile devices */
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 450px){
    
     header{
-        height: 80vh;
+        height: 110vh;
     }
     .header__socials, .scroll__down{
         display: none;

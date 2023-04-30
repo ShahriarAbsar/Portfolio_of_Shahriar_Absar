@@ -70,3 +70,27 @@ textarea{
     }
     
  }
+
+ @media screen and (max-width: 450px){
+
+
+    .container.contact__container{
+        margin-top: 10vh;
+        width: 70%;
+        display: grid;
+    }
+
+    .contact__options{
+    
+       display: grid;
+       grid-template-columns:1fr;
+       gap: 2rem;
+       
+    
+    }
+    
+    
+   
+    }
+    
+ 

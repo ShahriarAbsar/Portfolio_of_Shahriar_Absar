@@ -44,10 +44,23 @@
  /*Small devices*/
  @media screen and (max-width: 600px){
     .portfolio__container{
+        display: grid;
         grid-template-columns: 1fr;
         gap: 1rem;
     }
     
  }
 
+  /*Small devices*/
+  @media screen and (max-width: 450px){
+    
+    
+    .portfolio__container{
+        
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+ }
  

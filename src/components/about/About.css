@@ -144,17 +144,20 @@
 
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 450px){
 
     .about__container{
+        
         display: grid;
         grid-template-columns:1fr;
-        gap: 5rem;
+        gap: 2rem;
+        
     
        
     }
    
     .about__me{
+        height: 100%;
      width: 40%;
      margin: 0 auto 6rem;
  
@@ -163,6 +166,8 @@
         
          grid-template-columns: 1fr;
          gap: 1rem;
+         margin: .5rem 2rem;
+         margin-bottom: 2rem;
     }
     .about__content{
      text-align: center;
@@ -170,8 +175,8 @@
     .about__content p{
         text-align: justify;
         
-        width: 55%;
-     margin: 1.0rem 0;
+        width: 80%;
+       margin: .5rem 3rem;
     }
  
  }
