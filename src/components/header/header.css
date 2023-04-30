@@ -1,3 +1,5 @@
+
+
 header{
     height: 100vh;
     padding-top: 7rem;
@@ -71,5 +73,18 @@ header{
     .header__socials, .scroll__down{
         display: none;
     }
+}
+
+/* mobile devices */
+
+@media screen and (max-width: 500px){
+   
+    header{
+        height: 80vh;
+    }
+    .header__socials, .scroll__down{
+        display: none;
+    }
+    
 }
 
