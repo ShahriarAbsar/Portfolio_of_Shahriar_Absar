@@ -5,7 +5,7 @@ const CVD = () => {
   return (
     <div className='cvd'>
          <a href={cv}download className='btn'>Download CV</a>
-         <a href="#contact" className='btn btn-primary'>Contacts</a>
+         <a href="#contacts" className='btn btn-primary'>Contacts</a>
   </div>
   )
 }
