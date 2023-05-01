@@ -156,19 +156,3 @@ img{
     
 }
 
-@media screen and (max-width: 362px){
-    .container{
-        
-        width: var(--container-width-mms);
-    }
-
-    section{
-        margin-top: 5rem;
-        height: 290vh;
-    }
-
-    section > h2{
-        margin-top: 1rem;
-    }
-    
-}

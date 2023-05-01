@@ -66,19 +66,19 @@ const About = () => {
                   <h5>Programming Languages</h5>
                   
                   <h6>JAVA</h6>
-                  <FaJava className='exp__icon'/><small> Intermideate</small>
+                  <FaJava className='exp__icon'/><small> Intermideate </small>
                   <h6>Python</h6>
-                  <SiPython className='exp__icon'/><small> Intermideate</small>
+                  <SiPython className='exp__icon'/><small> Intermideate </small>
                   <h6>HTML</h6>
-                  <FaHtml5 className='exp__icon'/><small> Intermideate</small>
+                  <FaHtml5 className='exp__icon'/><small> Intermideate </small>
                   <h6>CSS</h6>
-                  <SiCss3 className='exp__icon'/><small> Intermideate</small>
+                  <SiCss3 className='exp__icon'/><small> Advanced Beginner </small>
                   <h6>JavaScript</h6>
-                  <TbBrandJavascript className='exp__icon'/><small> Intermideate</small>
+                  <TbBrandJavascript className='exp__icon'/><small> Advanced Beginner </small>
                   <h6>BOOTSTRAP</h6>
-                  <FaBootstrap className='exp__icon'/><small> Intermideate</small>
+                  <FaBootstrap className='exp__icon'/><small> Intermideate </small>
                   <h6>React</h6>
-                  <GrReactjs className='exp__icon'/><small> Intermideate</small> 
+                  <GrReactjs className='exp__icon'/><small> Beginner </small> 
                   </article>
                   
                                       {/*Projects*/}
