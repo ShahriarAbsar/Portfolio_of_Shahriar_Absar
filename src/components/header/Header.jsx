@@ -14,9 +14,11 @@ const header = () => {
         <h1>Shahriar Absar</h1>
         <h4 className="text-light">Computer Science Engineer</h4>
         
+        <HeaderSocials/>
+
         <CVD />
 
-        <HeaderSocials/>
+        
 
         <div className="me">
 
