@@ -18,7 +18,7 @@
     --color-light:rgba(255,255,255,0.6);
 
     --container-width-lg:75%;
-    --container-width-md:86%;
+    --container-width-md:80%;
     --container-width-ms:90%;
     --container-width-mms:100%;
     --transition: all 400ms ease;
@@ -116,6 +116,7 @@ img{
         width: var(--container-width-md);
     }
     section{
+       
         margin-top: 6rem;
     }
 
@@ -127,9 +128,14 @@ img{
     .container{
         width: var(--container-width-sm);
     }
+
+    
+
     section > h2{
         margin-top: 2rem;
     }
+
+    
     
 }
 

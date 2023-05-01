@@ -16,6 +16,7 @@ const portfolio = () => {
     <h2><span>Portfolio</span> </h2>
 
     <div className="container portfolio__container">
+      
 
              {/*1*/}   <article className='portfolio__item'>
                 <div className="portfolio__item-image">

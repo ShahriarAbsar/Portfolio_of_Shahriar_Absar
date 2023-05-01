@@ -9,11 +9,28 @@ const App = () => {
   return (
     <>
         <Header/>
+        <br />
+        <br />
+        <br />
+        <br />
         <Nav/>
+        <br />
+        <br />
+        <br />
+        <br />
         <About/>
+        <br />
+        <br />
+        <br />
+        <br />
         <Portfolio/>
+        <br />
+        <br />
+        <br />
+        <br />
         <Contacts/>
         <Footer/>
+        
     </>
 
    
