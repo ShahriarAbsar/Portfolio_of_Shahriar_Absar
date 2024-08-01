@@ -1,4 +1,10 @@
+.all{
+    margin-top: 18rem;
+    height: 50dvh !important;
+}
+
 .container.contact__container{
+    
     width: 58%;
     display: grid;
     grid-template-columns: 30% 50%;

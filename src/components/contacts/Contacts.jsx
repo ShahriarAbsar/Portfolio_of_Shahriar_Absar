@@ -6,8 +6,8 @@ import {ImLinkedin} from 'react-icons/im'
 
 const contacts = () => {
   return (
-    
-    <section id='contacts' >
+    <div className="all" >
+      <section id='contacts' >
     <h5>Get in Touch</h5>
     <h2>Contact Me</h2>
 
@@ -37,6 +37,8 @@ const contacts = () => {
       </div>  
       
     </section>
+    </div>
+    
   )
 }
 

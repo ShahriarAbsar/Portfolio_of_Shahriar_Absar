@@ -36,7 +36,7 @@ body{
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image:url(G:\Portfolio_Shahriar_Absar\website\src\assets\bgpatern.png);
+    background-image:url("./assets/bgpatern.png");
     /*background: linear-gradient(#64d0e6, #273098, transparent);*/
 }
 
@@ -55,8 +55,8 @@ h1{
     font-size: 2.5rem;
 }
 section{
-    margin-top: 8rem;
-    height: 125vh;
+    margin-top: .5rem;
+    height: 100dvh;
     
 }
 
